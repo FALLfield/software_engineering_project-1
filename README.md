@@ -82,7 +82,7 @@
   - role: project manager, software designer and software maintainer
   - responsibility:mainly determine the type of software and corresponding functions, write the source code for each of the function to make sure the software can work well and add relevant functions to the software to maintain its normal operation   
   - portion:
-    - complete the some source code
+    - complete part of source code
     - complete some parts in the readme file
     - design the main structure of our software
     - do the testing for our software
@@ -93,15 +93,15 @@
   - portion:
     - complete the remaining source code
     - do the testing for our software
-    - design the main structure of our software
+    - design the main structure of the software
     - analyst the whole software 
     - improve the function of the software
 - Wendelin(p2211552):
   - role: project manager, software tester and software analyst
-  - responsibility:mainly determine the type of software and corresponding functions and test whether each of the function can work in diffierent cases then write a document to summary our software. 
+  - responsibility:mainly determine the type of software and corresponding functions and test whether each of the function can work in diffierent cases then write a document to summary the software. 
   - portion:
     -  do the testing for our software
-    -  design the main structure of our software
+    -  design the main structure of the software
     -  analyst the whole software with each of the function
     -  complete remaining parts in the readme file
 - #### Schedule
@@ -124,7 +124,7 @@
 
 ## ADDITIONAL PART
 
-### DOME
+### DEMO
 https://youtu.be/J4jl96kqq3c?si=_5hBakeiUXCO7lXP
 
 ### ENVIRONMENTS OF THE SOFTWARE DEVELOPMENT AND RUNNING
